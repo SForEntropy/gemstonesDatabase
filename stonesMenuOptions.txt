@@ -1,0 +1,8 @@
+Gemstones Database Menu
+
+1. Read Gemstones
+2. Add Gemstone
+3. Update Gemstone
+4. Delete Gemstone
+5. Search Gemstones
+6. Exit
