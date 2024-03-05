@@ -10,7 +10,7 @@ def insert_gemstone():
         name = input("Enter gemstone name: ")
         primary_color = input("Enter primary color: ")
         place_mined = input("Enter place mined: ")
-        mohs = int(input("Enter Mohs hardness (integer): "))
+        mohs = float(input("Enter Mohs hardness (use one decimal place e.g. 5.0): "))
 
         
         cursor.execute('''
